@@ -1,0 +1,5 @@
+latexify-py
+matplotlib
+numpy
+sympy
+nbconvert
